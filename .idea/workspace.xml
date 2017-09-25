@@ -2,7 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a4cc5b8-1988-4a2c-b06f-f5a611a0f7d7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cleanup.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/COM/TM_HOM_COM_12022013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/COM/TM_HOM_COM_20042016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/CON/TM_HOM_CON_05102010.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/CON/TM_HOM_CON_05102011.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/CON/TM_HOM_CON_05102013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/CON/TM_HOM_CON_09102012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/CON/TM_HOM_CON_19032013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_03122010.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_04022016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_04122013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_09042014.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_10022016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_12122012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_16022016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_16052016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_16062014.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_17052016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_23032016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_24052016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_24062014.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_25012012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_25042016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_27012016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_28012015.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_30012012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_04092017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_04092017b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_07122016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_22072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_22092017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_29072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_29072016b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_29072016c.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_30012017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_30072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/BRE/TM_PM_BRE_17012017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/BRE/TM_PM_BRE_19012017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/BRE/TM_PM_BRE_22092017b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/BRE/TM_PM_BRE_23062017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/BRE/TM_PM_BRE_30032017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/COM/TM_PM_COM_18072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/CON/TM_PM_CON_02102016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/CON/TM_PM_CON_05102016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/DOW/TM_PM_DOW_13072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ELE/TM_PM_ELE_05072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ELE/TM_PM_ELE_11072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ELE/TM_PM_ELE_18042017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ELE/TM_PM_ELE_21042017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/PM/TM_PM_12092016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/PM/TM_PM_17082017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/PM/TM_PM_21112016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/PM/TM_PM_30072017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/PM/TM_PM_30082017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/REL/TM_PM_REL_01062017b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/REL/TM_PM_REL_16042017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/REL/TM_PM_REL_31082017.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cleanup.py" afterPath="$PROJECT_DIR$/cleanup.py" />
     </list>
     <ignored path="maybot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,9 +85,11 @@
       <file leaf-file-name="cleanup.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cleanup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06" vertical-offset="0" max-vertical-offset="750">
-              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-              <folding />
+            <state vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="494">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#78#87#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,9 +107,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
+    <option name="x" value="29" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1315" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -104,11 +162,163 @@
     <property name="options.lastSelected" value="com.jetbrains.python.buildout.BuildoutModulesConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager">
-    <list size="0" />
+  <component name="RunManager" selected="Python.cleanup">
+    <configuration default="false" name="cleanup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="maybot" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cleanup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="maybot" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="maybot" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="maybot" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="maybot" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="maybot" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="maybot" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.cleanup" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.cleanup" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9a4cc5b8-1988-4a2c-b06f-f5a611a0f7d7" name="Default" comment="" />
@@ -119,28 +329,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="23" width="1440" height="873" extended-state="0" />
+    <frame x="29" y="23" width="1315" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27376425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32904884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -166,9 +376,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cleanup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06" vertical-offset="0" max-vertical-offset="750">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding />
+        <state vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="494">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#78#87#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
