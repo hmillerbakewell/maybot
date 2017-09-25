@@ -1,0 +1,177 @@
+Thank you. I am delighted to be at this Police IT Suppliers Summit once again. I know that today we have representatives from police forces across England and Wales, police and crime commissioners, and experts from industry. So I want to thank you all for coming and I want to thank the Police ICT Company for hosting this event.
+
+The last time I stood before you I said that if we can get police IT right, the prize will be invaluable.
+
+I was clear it was not simply because sorting out police IT means we will cut unnecessary waste and save money, although those things are true.
+
+But because since I became Home Secretary more than five and a half years ago, I have seen how technology has the power to transform policing immeasurably.
+
+Everyone in this room knows that there are huge benefits to policing if we can take the right steps forward, and great risks if we stand still.
+
+Today too much money is still spent on expensive, fragmented and outdated systems. Police officers all too often use technology that lags woefully behind what they use as consumers. And there is an unacceptable lack of digital join up with the criminal justice system and other agencies.
+
+But the scale and reach of the internet has changed the nature of crime, giving rise to new crime types and allowing criminals to carry out traditional crimes in new ways. These crimes are sophisticated and they can create huge numbers of victims at a keystroke. As technology continues to evolve, so too do the opportunities for the criminals to exploit.
+
+Last year, organised criminals used malicious software to infect thousands of computers in the UK to access personal or banking information, steal passwords and disable antivirus protection.
+
+This information was then used to steal money from people and businesses around the world, including an estimated £20 million from the UK on this occasion.
+
+Thankfully, the National Cyber Crime Unit at the National Crime Agency led a major European operation to tackle these criminals and prevent further cyber crime being committed.
+
+But this one example shows how criminals are exploiting the internet to gain access to a much larger number of potential victims. But criminals – like the rest of us – use a myriad of modern technology and can leave a digital as well as a physical trail. So there is an ever growing demand for officers who can carry out digital investigations, and use digital forensic techniques to extract, analyse and interpret data found on devices. And our ambition must be for every frontline officer to have the ability to capture digital evidence and to carry out basic digital investigations – such capabilities can no longer be the preserve of specialist units alone.
+
+Technology is moving fast. It continues to reshape the way we live and work. It can keep us permanently connected with others and link us digitally with our homes and our possessions.
+
+And it is also reshaping the way criminals carry out crimes.
+
+So policing must keep up.
+
+That’s why today’s conference is so important. Because everybody here has a role to play in helping to transform police technology.
+
+In ensuring that procurement is carried out intelligently so that contracts deliver value for money for officers and the taxpayer.
+
+In ensuring that the devices and systems officers use are up-to-date and efficient so that they spend less time behind desks, and more time out on the beat. And in ensuring that the police understand and exploit the potential of technology, to help them protect the vulnerable, prevent crime, and investigate crime – online and offline – when it does occur.
+
+It is not my job to do this for you. As Home Secretary I have put in place a radical programme of reform to take the Home Office out of policing, and put the professionals in charge. And I give you two challenges.
+
+Firstly, these are police systems, it is police officers who use them day in and day out, and it is up to police and crime commissioners and chief constables to scrutinise how money is spent to deliver for forces and the taxpayer. And both communities require intelligent and effective engagement from the police IT supplier community to drive the efficiency and innovation that is so critical.
+
+Secondly, I challenge you to be ambitious in shaping the future: understanding the potential for technology to make a difference and to embrace it, for the good of policing and, of course, for the public.
+
+The slow pace of gritty reform
+
+So we know the scale and complexity of the challenge of replacing and improving existing police systems, and the size of the potential prize.
+
+But frankly it has taken too long to take that challenge seriously.
+
+As I have said before, the reform of police ICT is gritty and unglamorous.
+
+The systems are complex, the landscape is fast moving and the market can be daunting to the uninitiated.
+
+The vast majority of chief police officers and PCCs are not IT experts – and we don’t expect them to be. We know that suppliers are frustrated too by the fragmented and complicated police market. In particular SMEs – who can often have the most innovative ideas – can be deterred by the complexity.
+
+But that does not mean that this type of reform is not important. It is fundamental to making policing more effective and necessary to tackle changing crime.
+
+Now many of you have called for “thought leadership” on police IT: an intelligence customer who can broker on behalf of police forces and advise them on solutions.
+
+Today, the Police ICT Company is up and running – funded not by the Home Office, but by policing.
+
+I would like to welcome Martin Wyke who joined as Chief Executive of the Company last year. He brings with him real commercial experience and expertise.
+
+And I am pleased to hear he has already been up and down the country making connections and getting to grips with the complexities that exist.
+
+I believe that the Company will deliver for policing as a whole, as well as for individual forces – and it has already started doing just that.
+
+Thanks in large part to the positive engagement from IBM, the Home Office and the Police ICT Company were able to consolidate 122 contracts for analytic services with more than 50 government organisations into a single contract, releasing multi-million pound savings.
+
+It’s worth stepping back and thinking about that number. Not 43 contracts – one for every force. But one hundred-and-twenty-two – the equivalent of nearly three for every police force IT department in the country.
+
+It is precisely this type of opportunity that I think the ICT Company can grasp for policing – working as a single, intelligent customer for police technology, and consolidating contracts and licenses. Not of course that all police forces need or want identical solutions; but the work that the ICT Company is driving to develop common standards is crucial. Shared standards facilitate interoperability and data sharing and make life easier for suppliers too.
+
+At a local level police and crime commissioners and chief constables are working together across force boundaries to deliver savings and improve the working lives of their officers and staff.
+
+Hertfordshire, Bedfordshire and Cambridgeshire are streamlining business processes to allow what they call the “seamless flow of common data”. Between 2015 and 2019, the forces are expected to make total cashable savings of over £23 million combined, saving potentially 20% on today’s ongoing maintenance and support costs.
+
+This is just one example. We are seeing other collaborations between forces including Cleveland, North Yorkshire and Durham, Thames Valley and Hampshire, South Yorkshire, Humberside, North Yorkshire and West Yorkshire – together aiming to save millions more on IT and business support functions.
+
+So nationally and locally, you are starting to put right the mistakes of the past and join up systems together. And make a real difference to police officers, victims of crime and taxpayers.
+
+But we need to go further still.
+
+As I said at this Summit previously, when the Government came to power, police forces spent £1 billion annually on IT.
+
+This included 2,000 different IT systems, spread over 43 forces. And in 2011/12 a survey indicated this was supported by approximately 4,000 staff.
+
+Today we are doing a little better. According to HMIC, estimates for the net revenue expenditure on ICT by police forces in England and Wales will be around £600 million in 2015/16 – once spend for systems, devices and staff have been taken into account.
+
+In addition, the Home Office has responsibility for a portfolio of 21 national policing systems with estimated costs for 2016/17 to be £104.4 million – not including Airwave – a proportion of which is recharged to forces.
+
+And according to HMIC estimates police IT is supported by approximately 3000 staff.
+
+So we have saved money and freed up staff to focus on cutting crime, but there are still too many examples of inefficient IT holding back police officers, wasting public money and preventing the join up with other public services.
+
+While the Common Platform programme will in due course digitise the criminal justice system, in some areas criminal evidence still has to be burnt onto CD and taken round to the Crown Prosecution Service in sacks – because the ability to link police systems with that criminal justice system barely exists. Digital First, a national programme led by Chief Constable Giles York, is starting to address this need for a digital interface between the Common Platform and police systems, but there is a long way to go.
+
+Sometimes elaborate business processes compound problems with basic IT. For example when force shift and rostering systems are so complex, compared to other sectors, off the shelf systems are incapable of handling them without expensive bespoke adaptations.
+
+Multiple systems mean very mundane things can be crucially important. How one describes hair colour in a crime report may not seem that important. But not having a single list of hair colours for identifying suspects or convicts and describing victims, agreed across all forces, makes automated comparison of records impossible. One force lists the colour maroon which other forces don’t recognise, while others disagree on whether a hair colour is brown-auburn or simply auburn.
+
+And over the years the architecture of forces’ IT systems has grown so confused and archaic that we know of one case where a simple domestic Actual Bodily Harm case required – from call out to court – the suspect’s name to be handwritten or re-keyed no fewer than 20 times, and the victim’s name 12 times.
+
+These practices just cannot make sense – in the modern age or in any before it. They show that the necessary changes do not need to be complex.
+
+Some can be simple – like ensuring names do not need to be rekeyed endless times, and having a single version of hair colours that all forces use.
+
+As an organisation working for all of you, with commercial expertise, the Police ICT Company is well positioned to identify these types of inefficiencies and pursue rapid standardisation and rationalisation.
+
+And for those changes that are complex, the Company can act – as I have said – as a “single intelligent customer” to help bring commercial nous to the way police forces buy and manage contracts, services and products. This is not about “one size fits all”, or a single national programme for police IT – we all know how successful that would likely be. But the Company can bring together groups of forces, with common interests, to develop coherent, shared propositions to develop with suppliers.
+
+So I implore the supplier community to partner with the Company in identifying the next wave of reform to police ICT – like IBM did – to simplify contracts and improve services in the process.
+
+According to a report by Bluelightworks in 2015, the Police ICT Company could support forces to make £75 million savings in their IT budgets and a further £390 million in wider organisational savings, enabled by combining and streamlining operational services supported by shared IT platforms.
+
+So the days of suppliers negotiating contracts with every force in the country, at different rates, must come to an end. But if, together, you can achieve savings of this scale, the potential for reinvestment in technology solutions – as well as for budget reductions – is significant. That should be an incentive to everyone here.
+
+Rationalising the system
+
+Which brings me to the opportunity to transform police capabilities.
+
+As I told the Police Reform Summit in December, the next stage of reform in policing requires us to understand what capabilities are needed to combat a changing crime mix; to explore where those capabilities best sit, and determine how they are best delivered.
+
+Some threats, like cyber crime, require new skills, which may be in short supply in the private sector, as well as policing. Some of these capabilities may best be delivered by specialist units owned jointly by a number of forces or regionally through the Regional Organised Crime Unit structure. But as I said earlier, in a world in which many of those detained in custody suites have smart phones and in which victims of crime may have videoed the criminal, all frontline officers need basic skills in digital evidence capture and digital investigation.
+
+This work is being taken forward by the Specialist Capabilities Programme of the National Police Chiefs’ Council, the operational leaders of policing, in conjunction with the Association of Police and Crime Commissioners, who are accountable locally and financially.
+
+And as a Government, we are investing in these new capabilities. The Spending Review protected in real terms the overall policing budget over the course of this Parliament, the equivalent of up to £900 million more in cash terms, which will enable us to fund major investment in transformation.
+
+Given that workforce costs represent 80% of total force budgets, it is essential that we invest in new skills and technology to improve productivity and maximise the time officers spend fighting crime. And in the Policing and Crime Bill we will legislate to reform the roles and powers of police staff – which we consulted on last autumn – so that we give chief officers greater flexibility to have the right types of people in the right roles with the right mix of skills and experience.
+
+At the NPCC and APCC’s request, I have reallocated £4.6 million of this funding for the Digital Intelligence and Investigation programme, led by Chief Constable Stephen Kavanagh, which will help transform the way the police investigate and respond to the full range of digital crime types.
+
+At the same time, we are investing nearly £1 billion across the Parliament to establish a digital network over which the police, along with the other emergency services, can operate.
+
+At the end of last year the Government signed contracts for the Emergency Services Mobile Communications Programme to deliver critical voice and data to all three emergency services across the country. This marks a significant milestone. The new system will be considerably cheaper than the existing model and will, once fully operational, free up officers’ time and connect all emergency services on the same broadband network for the first time. It will enable officers to access key police databases, take mobile fingerprints and electronic witness statements and stream live body worn video – all while on the move. Further, it has the potential to support a wide range of applications, designed by and for policing.
+
+In short, officers will have more coverage, better connectivity to the services and databases they need at lower cost.
+
+Making the most of this new system
+
+By reforming police capabilities and upgrading the emergency services network, we are delivering on our manifesto commitment to finish the job of police reform.
+
+The Police Transformation Fund will run throughout this Parliament and the three emergency services will begin the transition to the new service in mid 2017, to be completed by early 2020.
+
+But these national changes are only part of the story; forces will need to drive change locally too.
+
+For example, most forces in England and Wales now use body worn video to some extent, and in new and different ways. In one example, officers dealing with individuals with mental health issues have used body worn video to inform NHS partners and demonstrate the need for a place of safety, while in others, they have used body worn camera evidence to inform partners, such as a coroner.
+
+Sussex and Dorset’s single mobile policing solution – which allows officers access to data while on the move – will not only significantly improve police visibility but save nearly half a million operational hours.
+
+And South Wales and Gwent’s FUSION project aims to provide a single picture of police resources at any one time, to help manage demand and ensure officers on the beat are best deployed. Staff will have access to information and systems at point of need regardless of which force’s domain the service is hosted on.
+
+I am delighted to see the interest in digital ideas coming through this year’s Police Innovation Fund.
+
+Last year 59 of the 71 successful bids were IT-enabled, including Kent Police’s bid to develop innovative solutions to tackle online child sexual exploitation and protect children, and West Mercia’s bid to develop a single integrated public contact and command control system for Warwickshire Police, West Mercia Police and Hereford and Worcester Fire and Rescue Service.
+
+Bidding for this year’s fund recently closed, with a total of 141 bids submitted. And I want to thank the Police ICT Company for supporting those bids, providing advice to forces in the early stages of that process, and reviewing all submitted bids by giving feedback and helping to identify opportunities for collaboration.
+
+But we still have a mountain to climb
+
+As more and more people use digital devices, forces will need to exploit digital information to investigate crimes and better protect the public. We need digital investigation capabilities at every rank, in every force.
+
+And the unprecedented amount of digital information being generated by people every day has led to an increase in demand of for the use of digital forensics to solve crime, first in high harm crimes such as child sexual exploitation, but increasingly across the spectrum of cases.
+
+Citizens increasingly capture what is happening around them on video, generating potential evidence of crimes. Policing has not yet caught up: the most common means of contacting the police remains the telephone. Police forces must follow the example of banks and retailers and do more to connect with citizens who increasingly live their lives on line.
+
+All this technology generates data, in vast quantities. Forces have not yet begun to explore the crime prevention opportunities that data offers. Subject to the proper restrictions to ensure privacy and that access and use of data is lawful and appropriate, the use of predictive analytics could help police forces identify those most at risk of crime, locations most likely to see crimes committed, patterns of suspicious activity that may merit investigation and to target their resources most effectively against the greatest threats.
+
+There are people in this room who can help with all of that. The supplier community have already developed products and services that could, today, provide a huge step-change in the capabilities available to forces. So as well as rooting out inefficiencies and old systems and contracts, I urge everyone in this room to work together to create space to engage with new ideas, and invest where there is clear value in doing so.
+
+Everyone in this room knows the scale of the challenge with police technology, and the sheer weight of opportunity if we grasp the nettle.
+
+It is not enough to acknowledge everything we know is wrong with the system. And it is plain wrong to use the 43-force structure to break up contracts that could be better provided once to all forces.
+
+The Police ICT Company is at the heart of my vision for a reformed policing landscape and I urge each and every PCC and any commercial supplier looking to do business in policing to work constructively with Martin and his team.
+
+As I said earlier, the prize is there for the taking. Millions if not billions of savings. Thousands of police officer hours saved. Untold crimes solved and victims satisfied. And all by getting the fundamentals – information communications technology – right.
+
+We have a long way to go, and as I said before, much of it is gritty, complex and unglamorous. But we must pursue it, work for it, and reach for it.
