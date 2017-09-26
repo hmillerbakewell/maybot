@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a4cc5b8-1988-4a2c-b06f-f5a611a0f7d7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/1984.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalMix.txt" afterPath="$PROJECT_DIR$/FinalMix.txt" />
-    </list>
+    <list default="true" id="9a4cc5b8-1988-4a2c-b06f-f5a611a0f7d7" name="Default" comment="" />
     <ignored path="maybot.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +27,8 @@
       <file leaf-file-name="train.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/word-rnn-tensorflow/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.2325583" vertical-offset="1035" max-vertical-offset="1950">
-              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.627907" vertical-offset="1035" max-vertical-offset="1950">
+              <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -483,8 +480,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/word-rnn-tensorflow/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.2325583" vertical-offset="1035" max-vertical-offset="1950">
-          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.627907" vertical-offset="1035" max-vertical-offset="1950">
+          <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
           <folding />
         </state>
       </provider>
