@@ -2,63 +2,126 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a4cc5b8-1988-4a2c-b06f-f5a611a0f7d7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/COM/TM_HOM_COM_12022013.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/COM/TM_HOM_COM_20042016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/CON/TM_HOM_CON_05102010.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/CON/TM_HOM_CON_05102011.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/CON/TM_HOM_CON_05102013.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/CON/TM_HOM_CON_09102012.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/CON/TM_HOM_CON_19032013.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_03122010.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_04022016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_04122013.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_09042014.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_10022016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_12122012.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_16022016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_16052016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_16062014.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_17052016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_23032016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_24052016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_24062014.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_25012012.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_25042016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_27012016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_28012015.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HOM/HOM/TM_HOM_30012012.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_04092017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_04092017b.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_07122016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_22072016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_22092017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_29072016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_29072016b.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_29072016c.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_30012017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ABR/TM_PM_ABR_30072016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/BRE/TM_PM_BRE_17012017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/BRE/TM_PM_BRE_19012017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/BRE/TM_PM_BRE_22092017b.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/BRE/TM_PM_BRE_23062017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/BRE/TM_PM_BRE_30032017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/COM/TM_PM_COM_18072016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/CON/TM_PM_CON_02102016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/CON/TM_PM_CON_05102016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/DOW/TM_PM_DOW_13072016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ELE/TM_PM_ELE_05072016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ELE/TM_PM_ELE_11072016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ELE/TM_PM_ELE_18042017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/ELE/TM_PM_ELE_21042017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/PM/TM_PM_12092016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/PM/TM_PM_17082017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/PM/TM_PM_21112016.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/PM/TM_PM_30072017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/PM/TM_PM_30082017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/REL/TM_PM_REL_01062017b.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/REL/TM_PM_REL_16042017.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PM/REL/TM_PM_REL_31082017.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cleanup.py" afterPath="$PROJECT_DIR$/cleanup.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DC/DC_2008.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DC/DC_2009.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DC/DC_2010.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DC/DC_2011.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DC/DC_2012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DC/DC_2013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DC/DC_2014.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DC/DC_2015.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_03122010.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_04022016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_04122013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_09042014.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_10022016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_12122012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_16022016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_16052016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_16062014.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_17052016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_23032016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_24052016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_24062014.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_25012012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_25042016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_27012016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_28012015.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_30012012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_COM_12022013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_COM_20042016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_CON_05102010.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_CON_05102011.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_CON_05102013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_CON_09102012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_HOM_CON_19032013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_12092016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_17082017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_21112016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_30072017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_30082017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ABR_04092017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ABR_04092017b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ABR_07122016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ABR_22072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ABR_22092017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ABR_29072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ABR_29072016b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ABR_29072016c.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ABR_30012017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ABR_30072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_BRE_19012017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_BRE_22092017b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_BRE_23062017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_BRE_30032017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_COM_18072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_CON_02102016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_CON_05102016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_DOW_13072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ELE_05072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ELE_11072016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ELE_18042017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_ELE_21042017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_REL_01062017b.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_REL_16042017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TM_PM_REL_31082017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_03122010_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_04022016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_04122013_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_09042014_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_10022016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_12122012_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_16022016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_16052016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_16062014_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_17052016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_23032016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_24052016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_24062014_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_25012012_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_25042016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_27012016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_28012015_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_30012012_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_COM_12022013_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_COM_20042016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_CON_05102010_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_CON_05102011_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_CON_05102013_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_CON_09102012_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_HOM_CON_19032013_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_12092016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_17082017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_21112016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_30072017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_30082017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ABR_04092017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ABR_04092017b_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ABR_07122016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ABR_22072016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ABR_22092017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ABR_29072016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ABR_29072016b_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ABR_29072016c_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ABR_30012017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ABR_30072016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_BRE_19012017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_BRE_22092017b_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_BRE_23062017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_BRE_30032017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_COM_18072016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_CON_02102016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_CON_05102016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_DOW_13072016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ELE_05072016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ELE_11072016_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ELE_18042017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_ELE_21042017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_REL_01062017b_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_REL_16042017_CLEAN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dataclean/TM_PM_REL_31082017_CLEAN.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataclean.py" afterPath="$PROJECT_DIR$/dataclean.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="maybot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,14 +145,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cleanup.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cleanup.py">
+      <file leaf-file-name="char-rnn-tensorflow.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/char-rnn-tensorflow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="494">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="e#78#87#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.81983805" vertical-offset="0" max-vertical-offset="1395">
+              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,13 +164,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/cleanup.py" />
+        <option value="$PROJECT_DIR$/getspeechwords.py" />
+        <option value="$PROJECT_DIR$/word-rnn-tensorflow/catdata.py" />
+        <option value="$PROJECT_DIR$/getspeech.py" />
+        <option value="$PROJECT_DIR$/getspeechwords2.py" />
+        <option value="$PROJECT_DIR$/word-rnn-tensorflow.py" />
+        <option value="$PROJECT_DIR$/word-rnn-tensorflow/train.py" />
+        <option value="$PROJECT_DIR$/dataclean.py" />
+        <option value="$PROJECT_DIR$/char-rnn-tensorflow.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="29" />
     <option name="y" value="23" />
-    <option name="width" value="1315" />
+    <option name="width" value="1408" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -153,6 +222,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maybot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maybot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="word-rnn-tensorflow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maybot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maybot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -163,8 +260,23 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Python.cleanup">
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/word-rnn-tensorflow/data/tinyshakespeare" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/word-rnn-tensorflow/data/tinyshakespeare" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dataclean">
     <configuration default="false" name="cleanup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,6 +290,63 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="maybot" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cleanup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="getspeech" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="maybot" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getspeech.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="getspeechwords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="maybot" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getspeechwords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dataclean" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="maybot" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataclean.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -306,12 +475,18 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.cleanup" />
+      <item index="1" class="java.lang.String" itemvalue="Python.getspeech" />
+      <item index="2" class="java.lang.String" itemvalue="Python.getspeechwords" />
+      <item index="3" class="java.lang.String" itemvalue="Python.dataclean" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.cleanup" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.dataclean" />
+        <item index="1" class="java.lang.String" itemvalue="Python.getspeechwords" />
+        <item index="2" class="java.lang.String" itemvalue="Python.getspeech" />
+        <item index="3" class="java.lang.String" itemvalue="Python.cleanup" />
       </list>
     </recent_temporary>
   </component>
@@ -329,27 +504,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="23" width="1315" height="873" extended-state="0" />
-    <editor active="true" />
+    <frame x="29" y="23" width="1408" height="873" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27376425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32904884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32904884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39460155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2556818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -370,17 +545,67 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cleanup.py">
+    <entry file="file://$PROJECT_DIR$/dataclean.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="494">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#78#87#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word-rnn-tensorflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48582995" vertical-offset="0" max-vertical-offset="1950">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word-rnn-tensorflow/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2100">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word-rnn-tensorflow/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataclean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48582995" vertical-offset="0" max-vertical-offset="494">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#78#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/char-rnn-tensorflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81983805" vertical-offset="0" max-vertical-offset="1395">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
