@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a4cc5b8-1988-4a2c-b06f-f5a611a0f7d7" name="Default" comment="" />
+    <list default="true" id="9a4cc5b8-1988-4a2c-b06f-f5a611a0f7d7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_03122010.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_04022016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_04122013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_09042014.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_10022016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_12122012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_16022016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_16052016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_16062014.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_17052016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_23032016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_24052016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_24062014.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_25012012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_25042016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_27012016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_28012015.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_30012012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_COM_12022013.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Final Mix/TM_HOM_COM_20042016.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalMix.txt" afterPath="$PROJECT_DIR$/FinalMix.txt" />
+    </list>
     <ignored path="maybot.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +46,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="train.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/word-rnn-tensorflow/train.py">
+      <file leaf-file-name="dataclean.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataclean.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.627907" vertical-offset="1035" max-vertical-offset="1950">
-              <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.54176074" vertical-offset="0" max-vertical-offset="443">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#78#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="char-rnn-tensorflow.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/char-rnn-tensorflow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="952" max-vertical-offset="1395">
+              <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -460,29 +494,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataclean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39473686" vertical-offset="0" max-vertical-offset="494">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding>
-            <element signature="e#78#87#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/char-rnn-tensorflow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33860046" vertical-offset="30" max-vertical-offset="1395">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/word-rnn-tensorflow/train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.627907" vertical-offset="1035" max-vertical-offset="1950">
           <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/char-rnn-tensorflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="952" max-vertical-offset="1395">
+          <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataclean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54176074" vertical-offset="0" max-vertical-offset="443">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#78#87#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
